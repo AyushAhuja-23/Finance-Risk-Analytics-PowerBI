@@ -97,14 +97,5 @@ Project Links
 
 GitHub: This repository
 
-Live Dashboard: Coming soon
 
-Attribution
 
-This project was developed as a portfolio adaptation of the Finance Risk Analytics project originally published by Amol Hatwar.
-
-Original repository:
-
-https://github.com/amolhatwar/Finance-Risk-Analytics
-
-The dashboard and analysis are being adapted and extended for personal learning and portfolio purposes.
